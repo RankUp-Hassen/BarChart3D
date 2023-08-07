@@ -27,8 +27,11 @@ Add it in your root build.gradle at the end of repositories:
 # Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.RankUp-Hassen:BarChart3D:Tag'
+	        implementation 'com.github.RankUp-Hassen:BarChart3D:1.1'
 	}
+
+ if implementation don't working u can Download Releases from here :
+ 	
 
 
 # Step 3 . Use Code
