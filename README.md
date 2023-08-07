@@ -31,9 +31,8 @@ Add it in your root build.gradle at the end of repositories:
 	}
 
  if implementation don't working u can Download Releases from here :
+ 	https://github.com/RankUp-Hassen/BarChart3D/archive/refs/tags/1.1.zip
  	
-
-
 # Step 3 . Use Code
 
 	 BarChart3D(
