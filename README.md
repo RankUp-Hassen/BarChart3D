@@ -4,6 +4,9 @@ BarChart3D-Compose
 
 # Example :
 
+https://github.com/RankUp-Hassen/BarChart3D/assets/140910656/e7bb73e7-1daa-4aae-b447-e4d95ff005f8
+
+
 
 
 [![](https://jitpack.io/v/RankUp-Hassen/BarChart3D-Compose.svg)](https://jitpack.io/#RankUp-Hassen/BarChart3D-Compose)
